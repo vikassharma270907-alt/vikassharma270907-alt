@@ -9,6 +9,13 @@
 
 </div>
 
+
+<div align="center">
+
+[![View Resume](https://img.shields.io/badge/📄_View_My_Resume-7C3AED?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/vikassharma270907-alt/vikassharma270907-alt/blob/main/RESUME.md)
+
+</div>
+
 ## 👋 About me
 
 I'm **Vikas**, a builder working on AI-powered applications, full-stack systems, developer tooling, and immersive computing. I like taking ideas from a prototype to something people can actually try.
@@ -27,6 +34,10 @@ I'm **Vikas**, a builder working on AI-powered applications, full-stack systems,
 ![Tools and platforms](https://skillicons.dev/icons?i=git,github,docker,linux,vscode,vercel)
 
 </div>
+
+## 📄 Resume
+
+Interested in my education, experience, selected projects, technical skills, and hackathon achievements? **[View my resume](RESUME.md)**.
 
 ## 🚀 Selected projects
 
