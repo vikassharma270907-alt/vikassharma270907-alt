@@ -136,7 +136,12 @@ An interactive 3D solar system explorer with procedural planet visuals and orbit
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-vikassharma270907--alt-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikassharma270907-alt)
+[![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vikassharma270907-alt)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vikas-sharma-97881737b)
+[![X](https://img.shields.io/badge/X%20(Twitter)-7C3AED?style=for-the-badge&logo=x&logoColor=white)](https://x.com/VikasSharm90791)
+[![Gmail](https://img.shields.io/badge/Gmail-7C3AED?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikas.sharma975357@gmail.com)
+
+**Email:** [vikas.sharma975357@gmail.com](mailto:vikas.sharma975357@gmail.com)
 
 </div>
 
