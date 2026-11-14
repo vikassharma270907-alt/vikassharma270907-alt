@@ -103,9 +103,11 @@ An interactive 3D solar system explorer with procedural planet visuals and orbit
 
 <div align="center">
 
-[![Contribution graph](https://github-readme-activity-graph.vercel.app/graph?username=vikassharma270907-alt&theme=react-dark&color=A78BFA&line=7C3AED&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Vikas’s GitHub contribution activity graph](https://raw.githubusercontent.com/vikassharma270907-alt/vikassharma270907-alt/output/activity-graph.svg)](https://github.com/vikassharma270907-alt/vikassharma270907-alt/actions/workflows/snake.yml)
 
 </div>
+
+*This graph is generated from GitHub contribution data by [my GitHub Actions workflow](.github/workflows/snake.yml), without relying on a third-party graph server.*
 
 ## 🐍 Contribution snake
 
