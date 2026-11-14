@@ -37,7 +37,13 @@ jobs:
           PROFILE_USER: vikassharma270907-alt
         run: python3 scripts/generate_activity_graph.py
 
-      - name: Publish SVGs to output branch
+      - name: Install PDF generator
+        run: python3 -m pip install --disable-pip-version-check reportlab==4.4.4
+
+      - name: Generate PDF resume
+        run: python3 scripts/generate_resume_pdf.py
+
+      - name: Publish generated files to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
