@@ -8,6 +8,10 @@ on:
     branches:
       - main
 
+concurrency:
+  group: profile-graphics
+  cancel-in-progress: false
+
 jobs:
   generate:
     runs-on: ubuntu-latest
@@ -16,6 +20,9 @@ jobs:
     timeout-minutes: 10
 
     steps:
+      - name: Check out profile code
+        uses: actions/checkout@v4
+
       - name: Generate light and dark SVGs
         uses: Platane/snk/svg-only@v3
         with:
@@ -23,6 +30,12 @@ jobs:
           outputs: |
             dist/github-snake-dark.svg?palette=github-dark
             dist/github-snake-light.svg?palette=github-light
+
+      - name: Generate self-hosted activity graph
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PROFILE_USER: vikassharma270907-alt
+        run: python3 scripts/generate_activity_graph.py
 
       - name: Publish SVGs to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
