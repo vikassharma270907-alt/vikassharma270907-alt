@@ -12,7 +12,8 @@
 
 <div align="center">
 
-[![View Resume](https://img.shields.io/badge/📄_View_My_Resume-7C3AED?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/vikassharma270907-alt/vikassharma270907-alt/blob/main/RESUME.md)
+[![View Resume](https://img.shields.io/badge/View-My%20Resume-7C3AED?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/vikassharma270907-alt/vikassharma270907-alt/blob/main/RESUME.md)
+[![Download Resume PDF](https://img.shields.io/badge/Download-Resume%20PDF-312E81?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/vikassharma270907-alt/vikassharma270907-alt/output/Vikas_Sharma_Resume.pdf)
 
 </div>
 
@@ -37,7 +38,7 @@ I'm **Vikas**, a builder working on AI-powered applications, full-stack systems,
 
 ## 📄 Resume
 
-Interested in my education, experience, selected projects, technical skills, and hackathon achievements? **[View my resume](RESUME.md)**.
+Interested in my education, experience, selected projects, technical skills, and hackathon achievements? **[View my resume](RESUME.md)** or **[download the PDF](https://raw.githubusercontent.com/vikassharma270907-alt/vikassharma270907-alt/output/Vikas_Sharma_Resume.pdf)**. The PDF is regenerated from the resume page automatically by [GitHub Actions](.github/workflows/snake.yml).
 
 ## 🚀 Selected projects
 
