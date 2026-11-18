@@ -8,11 +8,6 @@
 
 > This web-friendly resume summarizes my latest general CV (November 2026).
 
-## Education
-
-**Jabalpur Engineering College (JEC), Jabalpur**  
-Bachelor's Degree in Electrical and Electronics Engineering · August 2025 – July 2029 (expected)
-
 ## Experience
 
 **SEO Analyst Intern** — RankVed Healthcare Martech · September 2026 – Present  
