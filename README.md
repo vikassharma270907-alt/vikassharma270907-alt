@@ -13,8 +13,6 @@
 <div align="center">
 
 [![View Resume](https://img.shields.io/badge/View-My%20Resume-7C3AED?style=for-the-badge&logo=readme&logoColor=white)](https://github.com/vikassharma270907-alt/vikassharma270907-alt/blob/main/RESUME.md)
-[![Download Resume PDF](https://img.shields.io/badge/Download-Resume%20PDF-312E81?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://raw.githubusercontent.com/vikassharma270907-alt/vikassharma270907-alt/output/Vikas_Sharma_Resume.pdf)
-
 </div>
 
 ## 👋 About me
